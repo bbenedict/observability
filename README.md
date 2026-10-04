@@ -1,6 +1,7 @@
 # Observability
 
 Shared local observability infrastructure for agentic projects using OpenTelemetry.
+See the [observability-hooks repo](https://github.com/bbenedict/observability-hooks) for how to integrate this infrastructure into your Claude Code projects.
 
 The project runs entirely in Docker and provides:
 
