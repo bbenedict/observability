@@ -66,6 +66,13 @@ Once started, the following services are available locally:
 
 Grafana is automatically configured with Prometheus and Tempo as data sources.
 
+Login in with the default username and password. You'll be asked yo change on first login:
+
+```
+username: admin
+password: admin
+```
+
 ### Persistent Data
 
 Prometheus, Tempo, and Grafana store their data in Docker named volumes:
