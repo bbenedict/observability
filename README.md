@@ -66,7 +66,7 @@ Once started, the following services are available locally:
 
 Grafana is automatically configured with Prometheus and Tempo as data sources.
 
-Login in with the default username and password. You'll be asked to change on first login:
+Login with the default username and password. You'll be asked to change on first login:
 
 ```
 username: admin
